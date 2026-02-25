@@ -1,51 +1,60 @@
+# 🧠📚 Job Interview Guide Workshop – Group 1
 
-# 🧠📚 Job InterviewGuide Workshop
+## 👥 Group Information
 
-## 🎯 Workshop Objectives
-This workshop helps students **prepare for a Junior Data Scientist job interview** by combining **machine learning review** with **AI-driven self-assessment**.  
-Participants will experience a mock interview guided by a large language model (LLM), complete a technical quiz, and generate a personalized Jupyter Notebook to reinforce their weak areas.
+**Group Name:** Group 1  
 
-### Core Learning Objectives
-- Strengthen understanding of **core ML concepts**: supervised vs. unsupervised learning, regression, classification, KNN, and decision trees.  
-- Practice **AI interaction** and **prompt engineering** for professional development.  
-- Receive **tailored feedback and exercises** generated from quiz performance.  
-- Demonstrate practical **data science competency** through coding exercises.  
-- Reflect on learning progress and interview readiness.
+**Members:**
+
+- Ce Chen (Student ID: 9007166)  
+- Haibo Yuan (Student ID: 9010929)  
+- Zhuoran Zhang (Student ID: 9048508)
 
 ---
 
-## 🧩 Workshop Summary
-Students will:
-1. Copy the course workshop folders and **StudyGuide.txt**.  
-2. ZIP the `.ipynb` workshop files into **StudyMaterials.zip**.  
-3. Open a new LLM session using a model of their choice.  
-4. Upload **StudyGuide.txt** and **StudyMaterials.zip**.  
-5. Paste a structured prompt to instruct the LLM to act as an interviewer, quiz them, and create a custom study notebook.  
-6. Complete a **15-question interview quiz** (technical + behavioral).  
-7. Receive a personalized **JobInterviewGuide_Workshop.ipynb** notebook based on the quiz results.  
-8. Push the final graded notebook to GitHub.
+## 🎯 Workshop Objective
+
+This repository contains the completed deliverables for the CSCN8010 Job Interview Guide Workshop.
+
+The goal of this workshop was to:
+
+- Practice AI-assisted interview preparation  
+- Review core machine learning concepts  
+- Identify knowledge gaps through a simulated interview  
+- Strengthen understanding via targeted exercises  
+- Demonstrate professional documentation using GitHub  
 
 ---
 
-## 📊 Assessment Breakdown
+## 📁 Repository Contents
+
+This repository includes:
+
+### 1. `JobInterviewGuide_Workshop.ipynb`
+Main graded notebook containing:
+
+- Recorded quiz results  
+- Coverage vs. gaps analysis  
+- Reflection  
+- Targeted ML practice exercises  
+
+---
+
+### 2. `JobInterviewLLMSession.ipynb`
+Summary of the AI-assisted interview simulation conducted by Group 1.
+
+---
+
+## 📊 Assessment Components
 
 | Component | Description | Weight |
 |------------|--------------|--------|
-| **Quiz Performance** | Accuracy across 15 technical + behavioral questions | 40% |
-| **Generated Notebook Quality** | Completeness, correctness, and clarity | 40% |
-| **Reflection** | Insightful self-assessment within the notebook | 20% |
+| Quiz Performance | Performance across simulated technical & scenario questions | 40% |
+| Generated Notebook Quality | Accuracy, completeness, and clarity | 40% |
+| Reflection | Insightful team self-assessment | 20% |
 
 ---
 
-## 🚀 Deliverable
-Students must submit only the **JobInterviewGuide_Workshop.ipynb** file to GitHub.  
-This notebook should include:
-- Recorded quiz results  
-- Reflection answers  
-- Targeted ML exercises  
-- Example code scaffolding  
+## 🚀 Submission
 
----
-
-## 🧭 Summary
-This workshop bridges **machine learning fundamentals** with **AI-driven self-evaluation**, empowering students to engage in authentic, adaptive interview preparation — building both confidence and technical readiness.
+All required materials have been executed and uploaded to this repository as part of the Group 1 workshop submission.
