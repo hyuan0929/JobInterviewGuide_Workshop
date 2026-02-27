@@ -20,8 +20,8 @@ The goal of this workshop was to:
 
 - Practice AI-assisted interview preparation  
 - Review core machine learning concepts  
-- Identify knowledge gaps through a simulated interview  
-- Strengthen understanding via targeted exercises  
+- Identify **individual knowledge gaps** through simulated interviews  
+- Strengthen understanding via **personalized targeted exercises**  
 - Demonstrate professional documentation using GitHub  
 
 ---
@@ -33,15 +33,17 @@ This repository includes:
 ### 1. `JobInterviewGuide_Workshop.ipynb`
 Main graded notebook containing:
 
-- Recorded quiz results  
+- Individual quiz results  
 - Coverage vs. gaps analysis  
-- Reflection  
+- Individual reflections  
 - Targeted ML practice exercises  
 
 ---
 
-### 2. `JobInterviewLLMSession.ipynb`
-Summary of the AI-assisted interview simulation conducted by Group 1.
+### 2. JobInterviewLLMSession_Haibo.ipynb  
+JobInterviewLLMSession_CeChen.ipynb  
+JobInterviewLLMSession_Zhuoran.ipynb
+Summary of the **individual AI-assisted interview simulations** completed by each Group 1 member.
 
 ---
 
@@ -51,10 +53,16 @@ Summary of the AI-assisted interview simulation conducted by Group 1.
 |------------|--------------|--------|
 | Quiz Performance | Performance across simulated technical & scenario questions | 40% |
 | Generated Notebook Quality | Accuracy, completeness, and clarity | 40% |
-| Reflection | Insightful team self-assessment | 20% |
+| Reflection | Insightful individual self-assessment | 20% |
 
 ---
 
 ## 🚀 Submission
 
-All required materials have been executed and uploaded to this repository as part of the Group 1 workshop submission.
+All required materials have been completed and uploaded to this repository, including:
+
+- Individual interview transcripts  
+- Coverage vs. gaps analysis  
+- Personalized practice exercises  
+
+This submission reflects both collaborative learning and individual improvement achieved through the workshop.
